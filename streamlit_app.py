@@ -2,8 +2,10 @@ import streamlit
 
 streamlit.title('My Parents New Healthy Dinner')
 
-Omega 3 & Blueberry Oatmeal
+streamlit.headere("Breakfast Menu")
 
-Kale, Spinach & Rockt Smoothie
+streamlit.text("Omega 3 & Blueberry Oatmeal")
 
-Hard-Boiled Free-RangeEgg
+streamlit.text("Kale, Spinach & Rockt Smoothie")
+
+streamlit.text("Hard-Boiled Free-Range Egg")
